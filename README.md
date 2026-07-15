@@ -83,7 +83,12 @@ with $\{\beta^i_l \}_{i=1,..,d}$ being independent Brownian Motions and $\boldsy
 In particular, we choose a Fourier Decomposition on the unit domain $(-0.5,0.5)^d$ by
 
 $$
-\boldsymbol{\mathrm{G}}_{l,i} = \boldsymbol{e}_i \begin{cases} 1 \text{ if } l = 0 \,,\\ \sqrt{2}\sin (2 \pi l x_i) \text{ if } l > 0 \,,\\ \sqrt{2}\cos (2 \pi l x_i) \text{ if } l < 0 \,. \end{cases}
+\boldsymbol{\mathrm{G}}_{l,i} = \boldsymbol{e}_i 
+\begin{cases}
+1 \text{ if } l = 0 \,,\\ 
+\sqrt{2}\sin (2 \pi l x_i) \text{ if } l > 0 \,,\\ 
+\sqrt{2}\cos (2 \pi l x_i) \text{ if } l < 0 \,. 
+\end{cases}
 $$
 
 Using the same function base, the Hilbert--Schmidt operator $\boldsymbol{\mathrm{Q}}^{1/2}$ can be represented by coefficients $\{\lambda_{l,i}\}_{l,i}$
