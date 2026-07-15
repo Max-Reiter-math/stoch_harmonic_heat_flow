@@ -75,7 +75,7 @@ $$
 ## Approximation of the Wiener process
 The vector-valued Wiener process is decomposed into 
 $$
-\boldsymbol{\mathrm{W}}^i (t) = \sum_{l \in \mathbb{Z}} \boldsymbol{\mathrm{G}}_{l,i} \boldsymbol{e}_i \beta^i_l (t),
+{\boldsymbol{\mathrm{W}}}^i (t) = \sum_{l \in \mathbb{Z}} {\boldsymbol{\mathrm{G}}}_{l,i} \boldsymbol{e}_i \beta^i_l (t),
 $$
 <!-- with $\{\beta^i_l \}_{i=1,..,d}$ being independent Brownian Motions and $\boldsymbol{\mathrm{G}}_{l,i}$ being an orthonormal base for the space $L^2(\ ; \mathbb{R}^d)$.
 In particular, we choose a Fourier Decomposition on the unit domain $(-0.5,0.5)^d$ by
