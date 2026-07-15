@@ -133,7 +133,7 @@ They can be selected by specifying the command line key "-m" or "--mod".
 
 ## Numerical Settings
 
-- spiral : spiral domain with a known stationary solution, see [[3,5]](#5).
+- unstable : unit square with $\boldsymbol{d}_0 = \mathrm{sign} (x_1)$.
 - smooth : smooth initial condition on a unit square, see [[4]](#4).
 - annihilation : two line defects in a unit-cube, see [[1]](#1).
 
