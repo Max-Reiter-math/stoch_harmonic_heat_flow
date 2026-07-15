@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+*.session
+sim_suite/tests
+
+output/*
+tests/
+solver_logs_petsc/
+
+.vscode/*
+
+
+
+# telegram bot
+tbot.json
+# local private
+NOTES.md
+cheatsheet.md
+
+# Only local helpers
+# private/*

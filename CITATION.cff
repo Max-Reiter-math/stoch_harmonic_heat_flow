@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Reiter
+    given-names: Maximilian E.V.
+    orcid: https://orcid.org/0000-0001-9137-7978 
+title: "stoch_harmonic_heat_flow"
+version: 1.0.0
+doi: 
+date-released: 15/07/2026
