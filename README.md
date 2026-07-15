@@ -79,7 +79,7 @@ $$
 \boldsymbol{\mathrm{W}}^i (t) = \sum_{l \in \mathbb{Z}} \boldsymbol{\mathrm{G}}_{l,i} \boldsymbol{e}_i \beta^i_l (t),
 $$
 
-with $\{ \beta^i_l \}_{ i = 1, ... , d }$ being independent Brownian Motions and $ \boldsymbol{\mathrm{G}}_{l,i} $ being an orthonormal base for the space $L^2(\Omega ; \mathbb{R}^d)$.
+with $\beta^i_l$ being independent Brownian Motions and $ \boldsymbol{\mathrm{G}}_{l,i} $ being an orthonormal base for the space $L^2(\Omega ; \mathbb{R}^d)$.
 In particular, we choose a Fourier Decomposition on the unit domain $(-0.5,0.5)^d$ by
 
 $$
@@ -91,7 +91,7 @@ $$
 \end{cases}
 $$
 
-Using the same function base, the Hilbert--Schmidt operator $\boldsymbol{\mathrm{Q}}^{1/2}$ can be represented by coefficients $\{\lambda_{l,i}\}_{l,i}$
+Using the same function base, the Hilbert--Schmidt operator $\boldsymbol{\mathrm{Q}}^{1/2}$ can be represented by coefficients $\lambda_{l,i}$
 
 $$
 \boldsymbol{\mathrm{Q}}^{1/2} \boldsymbol{g} = \sum_{i=1}^d \sum_{l \in \mathbb{Z}} \lambda_{l,i} (\boldsymbol{g},\boldsymbol{\mathrm{G}}_{l,i})_{L^2} \boldsymbol{\mathrm{G}}_{l,i} \, .
