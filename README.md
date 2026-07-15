@@ -79,15 +79,19 @@ $$
 \boldsymbol{\mathrm{W}}^i (t) = \sum_{l \in \mathbb{Z}} \boldsymbol{\mathrm{G}}_{l,i} \boldsymbol{e}_i \beta^i_l (t),
 $$
 
-<!-- with $\{\beta^i_l \}_{i=1,..,d}$ being independent Brownian Motions and $\boldsymbol{\mathrm{G}}_{l,i}$ being an orthonormal base for the space $L^2(\ ; \mathbb{R}^d)$.
+with $\{\beta^i_l \}_{i=1,..,d}$ being independent Brownian Motions and $\boldsymbol{\mathrm{G}}_{l,i}$ being an orthonormal base for the space $L^2(\ ; \mathbb{R}^d)$.
 In particular, we choose a Fourier Decomposition on the unit domain $(-0.5,0.5)^d$ by
+
 $$
 \boldsymbol{\mathrm{G}}_{l,i} = \boldsymbol{e}_i \begin{cases} 1 \text{ if } l = 0 \,,\\ \sqrt{2}\sin (2 \pi l x_i) \text{ if } l > 0 \,,\\ \sqrt{2}\cos (2 \pi l x_i) \text{ if } l < 0 \,. \end{cases}
 $$
+
 Using the same function base, the Hilbert--Schmidt operator $\boldsymbol{\mathrm{Q}}^{1/2}$ can be represented by coefficients $\{\lambda_{l,i}\}_{l,i}$
+
 $$
 \boldsymbol{\mathrm{Q}}^{1/2} \boldsymbol{g} = \sum_{i=1}^d \sum_{l \in \mathbb{Z}} \lambda_{l,i} (\boldsymbol{g},\boldsymbol{\mathrm{G}}_{l,i})_{L^2} \boldsymbol{\mathrm{G}}_{l,i} \, .
-$$ -->
+$$
+
 Several choices for $\lambda$ are available via the Command-Line-Interface via:
 ```
 python -m sim.run -lam i
@@ -97,13 +101,17 @@ python -m sim.run -lam i
 - $i=3$ corresponds to setting $\lambda_{l,i} =(2l^2)^{-l}$
 
 As a consequence, the Stratonovich integral,
+
 $$
 \int^{t^{n+1}}_{t^n} \boldsymbol{d} \times \circ \mathrm{d} (\boldsymbol{\mathrm{Q}}^{1/2}  \boldsymbol{\mathrm{W}} )  \, ,
 $$
+
 can be approximated by considering a finite sum,
+
 $$
 \int^{t^{n+1}}_{t^n} \boldsymbol{d}^{n+1/2} \times \circ \mathrm{d} (\boldsymbol{\mathrm{Q}}^{1/2}  \boldsymbol{\mathrm{W}} ) = \boldsymbol{d}^{n+1/2} \times \sum_{i=1}^d \sum_{l \in \mathbb{Z}} \lambda_{l,i} \boldsymbol{\mathrm{G}}_{l,i} \int^{t^{n+1}}_{t^n} \mathrm{d} \beta^i_l \approx \boldsymbol{d}^{n+1/2} \times \sum_{i=1}^d \sum_{l \in \mathbb{Z} \cap [-Z_h, Z_h]} \lambda_{l,i} \boldsymbol{\mathrm{G}}_{l,i} \int^{t^{n+1}}_{t^n} \mathrm{d} \beta^i_l \, ,
 $$
+
 where $Z_h$ depends on the mesh width. On a cartesian grid of a with $1/h+1$ points in each dimensional direction, the points have the coordinates $[0, 1/h, 2/h, ... , 1]$. Accordingly, at the interpolation points (= mesh nodes), the basis functions with the frequencies $l=1/h$ and $l=2/h$ coincide. As a heuristic, we set $Z_h = 2/h -1$.
 
 ## Numerical Methods
