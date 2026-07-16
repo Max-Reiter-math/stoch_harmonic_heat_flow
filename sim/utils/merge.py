@@ -25,6 +25,7 @@ def parse_args():
     parser.add_argument("--copy_to_clipboard", "-ctc", action='store_true', help="Copy the DataFrame to clipboard")
     parser.add_argument("-latex", type=int, help="Print Latex Version of table or not.", default = 1)
     parser.add_argument("-csv", type=int, help="Print Latex Version of table or not.", default = 1)
+    parser.add_argument("-savetocsv", type=int, help="Print Latex Version of table or not.", default = 1)
 
     args = parser.parse_args()
 
@@ -61,6 +62,10 @@ if __name__ == "__main__":
 
     if args.csv == 1:
         print(df.to_csv())
+
+    if args.savetocsv == 1:
+        df.to_csv("output/" + args.sid + "_"+str(args.min)+"-"+str(args.max)+".csv", index=True)
+        print("DataFrame saved to output/" + args.sid + "_"+str(args.min)+"-"+str(args.max)+".csv")
 
     print_dataframe(df.reset_index(), title=args.sid)
 
