@@ -1,500 +1,500 @@
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l0 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 0 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l1 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 1 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l2 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 2 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l3 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 3 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l4 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 4 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l5 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 5 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l6 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 6 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l7 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 7 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l8 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 8 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l9 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 9 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l10 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 10 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l11 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 11 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l12 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 12 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l13 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 13 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l14 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 14 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l15 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 15 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l16 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 16 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l17 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 17 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l18 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 18 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l19 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 19 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l20 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 20 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l21 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 21 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l22 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 22 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l23 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 23 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l24 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 24 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l25 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 25 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l26 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 26 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l27 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 27 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l28 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 28 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l29 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 29 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l30 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 30 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l31 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 31 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l32 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 32 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l33 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 33 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l34 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 34 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l35 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 35 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l36 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 36 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l37 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 37 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l38 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 38 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l39 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 39 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l40 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 40 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l41 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 41 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l42 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 42 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l43 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 43 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l44 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 44 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l45 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 45 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l46 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 46 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l47 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 47 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l48 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 48 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l49 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 49 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l50 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 50 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l51 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 51 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l52 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 52 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l53 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 53 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l54 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 54 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l55 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 55 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l56 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 56 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l57 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 57 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l58 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 58 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l59 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 59 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l60 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 60 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l61 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 61 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l62 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 62 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l63 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 63 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l64 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 64 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l65 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 65 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l66 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 66 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l67 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 67 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l68 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 68 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l69 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 69 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l70 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 70 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l71 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 71 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l72 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 72 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l73 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 73 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l74 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 74 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l75 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 75 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l76 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 76 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l77 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 77 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l78 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 78 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l79 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 79 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l80 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 80 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l81 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 81 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l82 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 82 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l83 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 83 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l84 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 84 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l85 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 85 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l86 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 86 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l87 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 87 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l88 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 88 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l89 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 89 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l90 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 90 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l91 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 91 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l92 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 92 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l93 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 93 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l94 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 94 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l95 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 95 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l96 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 96 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l97 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 97 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l98 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 98 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l99 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 99 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l100 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 100 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l101 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 101 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l102 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 102 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l103 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 103 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l104 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 104 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l105 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 105 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l106 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 106 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l107 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 107 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l108 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 108 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l109 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 109 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l110 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 110 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l111 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 111 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l112 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 112 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l113 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 113 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l114 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 114 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l115 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 115 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l116 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 116 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l117 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 117 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l118 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 118 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l119 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 119 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l120 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 120 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l121 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 121 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l122 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 122 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l123 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 123 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l124 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 124 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l125 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 125 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l126 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 126 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l127 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 127 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l128 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 128 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l129 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 129 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l130 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 130 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l131 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 131 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l132 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 132 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l133 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 133 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l134 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 134 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l135 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 135 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l136 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 136 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l137 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 137 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l138 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 138 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l139 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 139 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l140 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 140 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l141 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 141 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l142 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 142 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l143 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 143 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l144 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 144 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l145 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 145 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l146 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 146 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l147 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 147 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l148 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 148 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l149 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 149 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l150 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 150 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l151 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 151 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l152 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 152 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l153 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 153 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l154 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 154 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l155 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 155 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l156 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 156 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l157 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 157 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l158 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 158 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l159 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 159 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l160 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 160 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l161 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 161 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l162 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 162 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l163 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 163 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l164 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 164 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l165 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 165 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l166 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 166 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l167 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 167 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l168 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 168 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l169 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 169 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l170 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 170 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l171 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 171 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l172 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 172 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l173 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 173 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l174 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 174 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l175 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 175 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l176 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 176 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l177 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 177 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l178 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 178 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l179 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 179 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l180 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 180 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l181 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 181 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l182 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 182 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l183 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 183 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l184 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 184 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l185 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 185 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l186 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 186 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l187 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 187 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l188 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 188 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l189 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 189 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l190 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 190 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l191 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 191 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l192 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 192 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l193 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 193 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l194 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 194 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l195 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 195 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l196 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 196 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l197 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 197 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l198 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 198 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l199 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 199 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l200 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 200 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l201 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 201 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l202 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 202 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l203 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 203 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l204 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 204 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l205 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 205 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l206 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 206 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l207 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 207 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l208 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 208 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l209 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 209 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l210 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 210 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l211 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 211 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l212 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 212 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l213 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 213 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l214 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 214 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l215 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 215 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l216 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 216 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l217 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 217 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l218 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 218 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l219 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 219 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l220 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 220 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l221 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 221 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l222 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 222 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l223 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 223 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l224 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 224 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l225 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 225 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l226 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 226 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l227 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 227 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l228 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 228 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l229 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 229 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l230 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 230 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l231 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 231 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l232 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 232 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l233 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 233 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l234 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 234 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l235 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 235 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l236 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 236 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l237 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 237 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l238 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 238 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l239 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 239 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l240 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 240 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l241 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 241 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l242 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 242 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l243 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 243 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l244 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 244 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l245 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 245 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l246 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 246 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l247 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 247 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l248 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 248 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l249 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 249 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l250 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 250 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l251 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 251 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l252 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 252 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l253 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 253 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l254 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 254 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l255 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 255 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l256 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 256 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l257 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 257 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l258 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 258 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l259 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 259 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l260 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 260 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l261 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 261 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l262 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 262 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l263 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 263 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l264 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 264 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l265 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 265 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l266 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 266 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l267 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 267 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l268 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 268 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l269 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 269 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l270 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 270 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l271 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 271 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l272 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 272 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l273 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 273 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l274 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 274 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l275 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 275 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l276 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 276 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l277 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 277 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l278 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 278 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l279 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 279 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l280 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 280 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l281 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 281 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l282 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 282 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l283 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 283 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l284 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 284 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l285 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 285 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l286 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 286 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l287 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 287 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l288 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 288 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l289 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 289 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l290 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 290 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l291 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 291 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l292 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 292 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l293 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 293 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l294 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 294 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l295 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 295 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l296 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 296 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l297 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 297 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l298 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 298 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l299 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 299 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l300 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 300 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l301 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 301 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l302 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 302 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l303 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 303 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l304 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 304 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l305 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 305 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l306 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 306 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l307 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 307 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l308 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 308 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l309 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 309 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l310 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 310 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l311 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 311 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l312 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 312 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l313 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 313 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l314 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 314 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l315 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 315 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l316 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 316 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l317 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 317 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l318 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 318 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l319 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 319 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l320 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 320 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l321 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 321 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l322 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 322 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l323 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 323 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l324 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 324 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l325 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 325 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l326 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 326 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l327 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 327 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l328 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 328 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l329 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 329 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l330 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 330 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l331 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 331 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l332 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 332 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l333 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 333 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l334 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 334 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l335 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 335 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l336 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 336 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l337 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 337 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l338 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 338 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l339 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 339 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l340 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 340 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l341 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 341 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l342 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 342 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l343 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 343 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l344 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 344 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l345 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 345 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l346 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 346 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l347 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 347 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l348 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 348 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l349 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 349 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l350 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 350 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l351 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 351 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l352 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 352 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l353 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 353 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l354 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 354 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l355 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 355 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l356 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 356 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l357 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 357 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l358 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 358 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l359 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 359 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l360 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 360 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l361 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 361 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l362 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 362 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l363 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 363 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l364 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 364 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l365 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 365 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l366 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 366 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l367 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 367 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l368 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 368 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l369 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 369 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l370 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 370 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l371 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 371 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l372 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 372 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l373 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 373 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l374 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 374 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l375 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 375 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l376 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 376 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l377 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 377 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l378 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 378 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l379 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 379 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l380 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 380 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l381 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 381 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l382 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 382 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l383 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 383 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l384 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 384 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l385 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 385 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l386 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 386 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l387 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 387 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l388 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 388 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l389 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 389 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l390 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 390 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l391 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 391 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l392 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 392 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l393 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 393 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l394 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 394 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l395 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 395 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l396 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 396 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l397 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 397 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l398 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 398 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l399 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 399 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l400 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 400 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l401 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 401 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l402 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 402 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l403 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 403 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l404 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 404 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l405 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 405 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l406 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 406 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l407 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 407 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l408 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 408 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l409 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 409 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l410 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 410 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l411 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 411 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l412 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 412 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l413 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 413 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l414 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 414 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l415 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 415 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l416 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 416 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l417 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 417 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l418 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 418 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l419 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 419 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l420 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 420 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l421 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 421 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l422 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 422 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l423 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 423 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l424 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 424 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l425 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 425 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l426 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 426 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l427 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 427 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l428 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 428 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l429 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 429 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l430 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 430 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l431 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 431 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l432 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 432 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l433 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 433 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l434 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 434 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l435 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 435 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l436 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 436 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l437 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 437 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l438 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 438 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l439 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 439 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l440 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 440 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l441 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 441 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l442 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 442 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l443 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 443 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l444 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 444 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l445 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 445 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l446 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 446 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l447 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 447 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l448 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 448 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l449 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 449 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l450 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 450 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l451 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 451 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l452 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 452 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l453 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 453 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l454 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 454 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l455 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 455 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l456 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 456 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l457 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 457 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l458 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 458 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l459 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 459 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l460 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 460 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l461 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 461 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l462 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 462 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l463 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 463 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l464 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 464 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l465 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 465 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l466 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 466 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l467 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 467 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l468 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 468 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l469 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 469 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l470 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 470 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l471 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 471 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l472 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 472 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l473 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 473 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l474 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 474 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l475 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 475 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l476 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 476 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l477 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 477 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l478 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 478 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l479 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 479 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l480 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 480 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l481 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 481 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l482 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 482 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l483 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 483 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l484 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 484 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l485 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 485 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l486 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 486 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l487 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 487 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l488 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 488 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l489 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 489 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l490 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 490 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l491 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 491 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l492 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 492 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l493 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 493 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l494 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 494 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l495 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 495 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l496 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 496 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l497 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 497 &&
-python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l498 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 498 &&
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l0 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 0 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l1 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 1 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l2 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 2 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l3 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 3 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l4 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 4 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l5 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 5 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l6 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 6 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l7 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 7 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l8 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 8 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l9 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 9 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l10 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 10 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l11 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 11 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l12 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 12 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l13 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 13 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l14 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 14 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l15 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 15 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l16 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 16 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l17 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 17 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l18 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 18 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l19 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 19 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l20 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 20 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l21 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 21 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l22 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 22 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l23 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 23 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l24 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 24 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l25 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 25 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l26 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 26 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l27 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 27 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l28 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 28 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l29 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 29 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l30 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 30 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l31 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 31 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l32 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 32 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l33 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 33 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l34 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 34 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l35 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 35 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l36 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 36 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l37 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 37 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l38 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 38 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l39 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 39 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l40 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 40 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l41 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 41 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l42 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 42 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l43 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 43 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l44 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 44 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l45 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 45 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l46 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 46 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l47 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 47 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l48 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 48 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l49 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 49 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l50 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 50 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l51 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 51 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l52 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 52 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l53 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 53 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l54 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 54 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l55 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 55 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l56 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 56 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l57 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 57 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l58 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 58 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l59 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 59 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l60 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 60 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l61 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 61 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l62 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 62 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l63 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 63 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l64 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 64 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l65 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 65 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l66 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 66 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l67 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 67 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l68 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 68 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l69 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 69 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l70 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 70 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l71 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 71 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l72 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 72 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l73 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 73 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l74 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 74 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l75 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 75 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l76 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 76 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l77 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 77 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l78 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 78 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l79 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 79 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l80 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 80 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l81 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 81 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l82 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 82 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l83 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 83 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l84 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 84 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l85 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 85 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l86 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 86 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l87 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 87 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l88 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 88 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l89 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 89 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l90 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 90 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l91 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 91 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l92 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 92 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l93 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 93 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l94 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 94 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l95 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 95 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l96 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 96 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l97 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 97 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l98 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 98 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l99 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 99 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l100 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 100 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l101 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 101 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l102 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 102 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l103 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 103 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l104 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 104 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l105 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 105 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l106 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 106 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l107 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 107 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l108 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 108 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l109 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 109 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l110 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 110 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l111 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 111 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l112 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 112 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l113 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 113 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l114 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 114 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l115 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 115 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l116 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 116 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l117 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 117 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l118 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 118 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l119 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 119 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l120 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 120 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l121 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 121 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l122 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 122 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l123 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 123 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l124 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 124 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l125 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 125 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l126 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 126 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l127 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 127 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l128 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 128 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l129 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 129 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l130 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 130 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l131 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 131 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l132 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 132 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l133 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 133 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l134 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 134 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l135 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 135 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l136 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 136 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l137 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 137 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l138 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 138 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l139 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 139 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l140 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 140 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l141 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 141 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l142 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 142 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l143 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 143 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l144 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 144 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l145 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 145 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l146 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 146 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l147 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 147 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l148 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 148 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l149 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 149 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l150 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 150 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l151 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 151 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l152 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 152 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l153 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 153 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l154 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 154 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l155 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 155 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l156 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 156 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l157 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 157 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l158 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 158 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l159 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 159 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l160 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 160 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l161 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 161 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l162 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 162 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l163 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 163 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l164 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 164 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l165 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 165 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l166 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 166 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l167 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 167 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l168 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 168 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l169 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 169 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l170 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 170 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l171 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 171 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l172 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 172 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l173 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 173 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l174 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 174 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l175 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 175 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l176 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 176 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l177 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 177 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l178 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 178 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l179 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 179 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l180 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 180 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l181 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 181 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l182 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 182 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l183 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 183 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l184 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 184 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l185 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 185 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l186 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 186 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l187 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 187 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l188 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 188 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l189 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 189 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l190 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 190 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l191 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 191 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l192 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 192 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l193 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 193 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l194 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 194 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l195 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 195 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l196 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 196 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l197 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 197 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l198 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 198 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l199 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 199 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l200 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 200 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l201 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 201 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l202 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 202 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l203 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 203 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l204 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 204 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l205 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 205 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l206 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 206 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l207 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 207 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l208 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 208 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l209 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 209 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l210 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 210 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l211 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 211 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l212 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 212 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l213 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 213 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l214 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 214 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l215 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 215 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l216 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 216 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l217 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 217 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l218 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 218 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l219 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 219 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l220 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 220 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l221 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 221 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l222 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 222 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l223 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 223 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l224 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 224 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l225 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 225 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l226 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 226 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l227 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 227 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l228 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 228 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l229 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 229 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l230 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 230 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l231 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 231 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l232 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 232 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l233 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 233 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l234 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 234 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l235 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 235 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l236 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 236 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l237 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 237 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l238 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 238 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l239 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 239 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l240 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 240 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l241 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 241 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l242 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 242 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l243 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 243 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l244 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 244 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l245 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 245 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l246 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 246 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l247 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 247 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l248 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 248 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l249 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 249 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l250 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 250 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l251 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 251 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l252 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 252 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l253 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 253 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l254 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 254 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l255 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 255 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l256 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 256 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l257 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 257 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l258 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 258 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l259 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 259 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l260 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 260 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l261 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 261 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l262 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 262 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l263 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 263 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l264 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 264 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l265 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 265 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l266 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 266 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l267 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 267 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l268 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 268 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l269 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 269 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l270 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 270 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l271 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 271 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l272 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 272 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l273 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 273 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l274 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 274 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l275 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 275 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l276 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 276 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l277 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 277 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l278 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 278 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l279 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 279 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l280 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 280 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l281 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 281 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l282 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 282 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l283 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 283 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l284 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 284 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l285 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 285 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l286 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 286 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l287 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 287 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l288 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 288 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l289 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 289 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l290 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 290 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l291 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 291 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l292 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 292 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l293 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 293 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l294 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 294 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l295 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 295 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l296 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 296 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l297 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 297 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l298 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 298 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l299 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 299 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l300 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 300 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l301 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 301 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l302 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 302 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l303 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 303 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l304 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 304 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l305 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 305 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l306 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 306 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l307 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 307 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l308 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 308 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l309 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 309 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l310 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 310 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l311 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 311 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l312 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 312 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l313 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 313 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l314 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 314 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l315 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 315 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l316 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 316 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l317 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 317 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l318 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 318 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l319 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 319 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l320 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 320 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l321 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 321 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l322 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 322 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l323 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 323 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l324 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 324 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l325 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 325 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l326 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 326 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l327 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 327 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l328 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 328 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l329 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 329 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l330 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 330 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l331 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 331 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l332 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 332 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l333 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 333 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l334 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 334 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l335 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 335 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l336 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 336 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l337 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 337 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l338 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 338 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l339 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 339 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l340 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 340 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l341 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 341 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l342 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 342 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l343 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 343 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l344 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 344 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l345 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 345 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l346 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 346 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l347 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 347 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l348 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 348 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l349 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 349 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l350 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 350 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l351 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 351 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l352 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 352 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l353 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 353 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l354 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 354 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l355 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 355 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l356 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 356 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l357 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 357 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l358 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 358 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l359 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 359 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l360 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 360 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l361 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 361 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l362 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 362 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l363 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 363 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l364 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 364 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l365 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 365 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l366 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 366 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l367 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 367 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l368 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 368 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l369 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 369 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l370 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 370 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l371 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 371 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l372 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 372 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l373 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 373 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l374 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 374 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l375 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 375 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l376 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 376 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l377 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 377 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l378 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 378 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l379 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 379 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l380 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 380 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l381 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 381 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l382 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 382 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l383 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 383 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l384 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 384 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l385 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 385 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l386 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 386 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l387 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 387 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l388 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 388 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l389 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 389 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l390 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 390 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l391 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 391 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l392 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 392 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l393 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 393 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l394 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 394 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l395 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 395 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l396 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 396 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l397 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 397 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l398 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 398 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l399 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 399 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l400 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 400 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l401 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 401 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l402 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 402 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l403 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 403 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l404 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 404 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l405 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 405 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l406 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 406 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l407 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 407 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l408 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 408 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l409 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 409 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l410 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 410 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l411 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 411 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l412 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 412 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l413 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 413 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l414 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 414 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l415 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 415 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l416 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 416 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l417 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 417 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l418 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 418 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l419 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 419 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l420 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 420 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l421 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 421 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l422 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 422 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l423 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 423 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l424 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 424 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l425 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 425 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l426 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 426 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l427 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 427 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l428 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 428 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l429 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 429 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l430 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 430 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l431 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 431 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l432 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 432 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l433 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 433 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l434 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 434 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l435 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 435 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l436 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 436 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l437 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 437 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l438 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 438 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l439 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 439 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l440 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 440 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l441 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 441 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l442 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 442 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l443 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 443 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l444 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 444 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l445 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 445 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l446 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 446 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l447 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 447 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l448 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 448 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l449 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 449 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l450 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 450 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l451 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 451 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l452 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 452 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l453 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 453 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l454 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 454 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l455 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 455 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l456 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 456 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l457 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 457 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l458 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 458 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l459 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 459 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l460 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 460 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l461 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 461 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l462 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 462 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l463 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 463 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l464 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 464 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l465 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 465 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l466 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 466 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l467 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 467 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l468 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 468 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l469 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 469 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l470 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 470 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l471 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 471 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l472 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 472 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l473 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 473 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l474 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 474 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l475 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 475 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l476 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 476 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l477 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 477 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l478 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 478 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l479 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 479 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l480 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 480 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l481 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 481 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l482 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 482 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l483 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 483 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l484 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 484 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l485 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 485 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l486 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 486 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l487 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 487 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l488 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 488 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l489 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 489 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l490 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 490 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l491 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 491 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l492 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 492 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l493 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 493 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l494 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 494 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l495 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 495 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l496 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 496 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l497 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 497 || true
+python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l498 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 498 || true
 python -m sim.run -vtx 0 -fsr 0.01 -msr 0.01 -ovw 1 -sid lam3_l499 -lam 3 -dh 10 -dt 0.01 -e unstable -m linear_cg -cs 1 -seed 499
