@@ -14,7 +14,7 @@ class unstable:
         # NAME
         self.name="Unstable initial data"
         self.dim = args.dim
-        self.dh = 2*int(args.dh/2)
+        self.dh = int(args.dh)
         
         # MESH
         if self.dim == 3:
