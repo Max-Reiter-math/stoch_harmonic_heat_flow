@@ -1,5 +1,5 @@
 # stoch_heat_flow_into_sphere
-FEniCSx implementation of some numerical methods for the stochastic heat flow into the sphere.
+FEniCSx implementation of some numerical methods for the stochastic heat flow into the sphere. For more information on this implementation, see the recent preprint [[Numerical approximation of probabilistically strong solutions to the stochastic harmonic map heat flow]](#1).
 
 ## Governing Equations
 The governing equations in a general form can be stated as:
@@ -122,11 +122,11 @@ where $Z_h$ depends on the mesh width. On a cartesian grid of a with $1/h+1$ poi
 ## Numerical Methods
 
 Currently the following numerical schemes are available (key : explanation).
-- nonlin_cg : Numerical Method in [[1]](#1)[[4]](#4) (setting the velocity to zero in time and space). Implemented using a monolithic Newton solver.
-- linear_cg : Algorithm 1 in [[3]](#3)[[4]](#4) (setting the velocity to zero in time and space). Linear projection method.
-- linear_dg : Algorithm 2 in [[3]](#3)[[4]](#4) (setting the velocity to zero in time and space). Linear projection method based on the DG method.
-- fp_decoupled : Numerical Method in [[2]](#2)[[4]](#4) (setting the velocity to zero in time and space) with an iterative Picard-type linearization, see [[2]](#2).
-- fp_coupled : Numerical Method in [[4]](#4) (setting the velocity to zero in time and space) with an iterative Picard-type linearization similar to fp_decoupled.
+- nonlin_cg : Numerical Method in [[2]](#2)[[5]](#5) (setting the velocity to zero in time and space). Implemented using a monolithic Newton solver.
+- linear_cg : Algorithm 1 in [[4]](#4)[[5]](#5) (setting the velocity to zero in time and space). Linear projection method.
+- linear_dg : Algorithm 2 in [[4]](#4)[[5]](#5) (setting the velocity to zero in time and space). Linear projection method based on the DG method.
+- fp_decoupled : Numerical Method in [[3]](#3)[[5]](#5) (setting the velocity to zero in time and space) with an iterative Picard-type linearization, see [[3]](#3).
+- fp_coupled : Numerical Method in [[5]](#5) (setting the velocity to zero in time and space) with an iterative Picard-type linearization similar to fp_decoupled.
 
 
 They can be selected by specifying the command line key "-m" or "--mod".
@@ -134,8 +134,8 @@ They can be selected by specifying the command line key "-m" or "--mod".
 ## Numerical Settings
 
 - unstable : unit square with $\boldsymbol{d}_0 = \mathrm{sign} (x_1)$.
-- smooth : smooth initial condition on a unit square, see [[4]](#4).
-- annihilation : two line defects in a unit-cube, see [[1]](#1).
+- smooth : smooth initial condition on a unit square, see [[5]](#5).
+- annihilation : two line defects in a unit-cube, see [[2]](#2).
 
 They can be selected by specifying the command line key "-e" or "--exp".
 
@@ -185,15 +185,18 @@ conda create --name my-env-name --file requirements.txt -c conda-forge
 ## References to relevant publications
 
 <a id="1">[1]</a> 
-Lasarzik, R., & Reiter, M. E. V. (2023). Analysis and numerical approximation of energy-variational solutions to the Ericksen-Leslie equations. Acta Appl. Math., 184, 44. https://doi.org/10.1007/s10440-023-00563-9
+Lasarzik, R., Metzger, S., & Reiter, M. E. V. (2026). Numerical approximation of probabilistically strong solutions to the stochastic harmonic map heat flow. arXiv [Math.NA]. http://arxiv.org/abs/2610.32588
 
 <a id="2">[2]</a> 
-Reiter, M. E. V. (2026). Decoupling and Linearization of a Liquid Crystal Model fulfilling a Unit Norm Constraint. Proceedings of ECMI 2023.
+Lasarzik, R., & Reiter, M. E. V. (2023). Analysis and numerical approximation of energy-variational solutions to the Ericksen-Leslie equations. Acta Appl. Math., 184, 44. https://doi.org/10.1007/s10440-023-00563-9
 
 <a id="3">[3]</a> 
+Reiter, M. E. V. (2026). Decoupling and Linearization of a Liquid Crystal Model fulfilling a Unit Norm Constraint. Proceedings of ECMI 2023.
+
+<a id="4">[4]</a> 
 Reiter, M. E. V. (2025). Projection Methods in the Context of Nematic Crystal Flow. https://arxiv.org/abs/2502.08571 & https://www.doi.org/10.1093/imanum/drag013 
 
-<a id="4">[4]</a>
+<a id="5">[5]</a>
 Reiter, M. E. V. (2026).  Structure-preserving numerical approximation of the Ericksen–Leslie equations for nematic liquid crystal flow. PhD Thesis. https://doi.org/10.14279/depositonce-26183
 
 ## Authors
